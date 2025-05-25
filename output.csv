@@ -1,5 +1,4 @@
-
-"Question","Answer"
+"question","answer"
 "What is the difference between a compiled and interpreted programming language?","A compiled language is converted into machine code before execution, while an interpreted language is executed line by line."
 "What is the most popular programming language?","According to various surveys, the most popular programming language is currently JavaScript."
 "What is the purpose of a programming language?","A programming language is used to write instructions for a computer to perform specific tasks."
